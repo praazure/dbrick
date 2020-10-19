@@ -1,0 +1,13 @@
+{
+	"name": "AzureDataLakeStore1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDataLakeStore",
+		"typeProperties": {
+			"dataLakeStoreUri": "https://dbrick.azuredatalakestore.net/webhdfs/v1",
+			"tenant": "e8f1b192-c695-4cbd-848d-f9922ded35cf",
+			"subscriptionId": "d07b8298-a3b4-491e-8adb-b1c7e844a395",
+			"resourceGroupName": "DataBricks"
+		}
+	}
+}
